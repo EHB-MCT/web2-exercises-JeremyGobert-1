@@ -31,4 +31,4 @@ window.onload = () => {
         console.log(pokemon);
         pokemon.forEach(element => console.log(element));
     }
-}
+};
